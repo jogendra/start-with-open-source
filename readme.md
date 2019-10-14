@@ -8,7 +8,9 @@
 * An Introduction to Open Source (https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 
 ### Video Resources
-
+* [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* [Git Tutorial for Beginners by Telusko](https://www.youtube.com/watch?v=WbwIoQYP6no)
+* [Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
 ### Workshops 
 
