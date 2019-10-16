@@ -12,6 +12,16 @@
 * [Git Tutorial for Beginners by Telusko](https://www.youtube.com/watch?v=WbwIoQYP6no)
 * [Git Tutorial for Beginners: Command-Line Fundamentals by  Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
+## Markdown
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Web Development
+
+* [Learn HTML, CSS, Javascript](https://www.freecodecamp.org)
+* [Learn programming basics from CodeCademy](https://www.codecademy.com)
+* [Introduction to Web Development-Coursera](https://www.coursera.org/learn/web-development)
+
 ### Workshops 
 
 
